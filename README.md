@@ -1,4 +1,4 @@
-To CYC， 
+To Cyc， 
 			    
 			     do{
 			    	printf("i love you");
